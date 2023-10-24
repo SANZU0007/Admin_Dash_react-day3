@@ -137,11 +137,15 @@ function Dashboard(){
                 <span><i className="fa-sharp fa-solid fa-magnifying-glass search-icon"></i></span>
                 </div>
                 <div className="account">
-                <i className="fa-sharp fa-solid fa-bell bell"></i>
-                <i className="fa-sharp fa-solid fa-envelope envelope"></i>
-                <span className="name">sanjay</span>
-                <img src="https://png.pngtree.com/png-vector/20190321/ourmid/pngtree-vector-users-icon-png-image_856952.jpg"/>
-                </div>
+              <span id="search-icon">
+                <img  src="https://cdn-icons-png.flaticon.com/128/1182/1182718.png?ga=GA1.1.528114384.1693122553&track=ais"></img>
+                <img id="gmail"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png?ga=GA1.1.528114384.1693122553&track=aisg"></img>
+                </span>
+              
+                <span className="name">Sanjay</span>
+                <img src="https://png.pngtree.com/png-vector/20190321/ourmid/pngtree-vector-users-icon-png-image_856952.jpg" />
+                
+              </div>
                 
                 
             </div>
